@@ -8,7 +8,9 @@ import androidx.appcompat.app.ActionBar
 import com.google.firebase.auth.FirebaseAuth
 import android.graphics.drawable.ColorDrawable
 import android.view.WindowManager
-import android.widget.*
+import android.widget.Button
+import android.widget.Toast
+import androidx.appcompat.widget.Toolbar
 
 
 class MainActivity : NzsUamBase() {
@@ -18,6 +20,8 @@ class MainActivity : NzsUamBase() {
 
         nav_bar("main",R.id.id_main_nav_home,R.id.id_main_nav_tree,R.id.id_main_nav_notifications,R.id.id_main_nav_settings)
 
+        val toolbar : Toolbar = findViewById(R.id.id_toolbar)
+        setSupportActionBar(toolbar)
 
         findViewById<Button>(R.id.id_main_button).setOnClickListener{
             FirebaseAuth.getInstance().signOut()

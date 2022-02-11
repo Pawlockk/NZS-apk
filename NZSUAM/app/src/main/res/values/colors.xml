@@ -8,6 +8,8 @@
     <color name="login_text_secondary">#7A8089</color>
 
     <color name="main_nav_image_tint">#5e5e5e</color>
+    <color name="background_color">#f0f0f0</color>
+
 
     <color name="black">#282828</color>
     <color name="white">#FFFFFFFF</color>

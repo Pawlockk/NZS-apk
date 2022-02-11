@@ -25,6 +25,8 @@
         <dimen name="login_button_text_size">18sp</dimen>
 
     <!-- main -->
+    <dimen name="toolbar_height">75dp</dimen>
+    <dimen name="toolbar_text_size">20dp</dimen>
     <dimen name="main_nav_height">75dp</dimen>
     <dimen name="main_nav_margin_bot">0dp</dimen>
     <dimen name="main_nav_corner">0dp</dimen>
