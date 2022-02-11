@@ -2,11 +2,14 @@ package pl.pawlock.nzsuam
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import androidx.appcompat.widget.Toolbar
 
 class NotificationsActivity : NzsUamBase() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_notifications)
-        nav_bar("notifications",R.id.id_notifications_nav_home,R.id.id_notifications_nav_tree,R.id.id_notifications_nav_notifications,R.id.id_notifications_nav_settings)
+        val toolbar : Toolbar = findViewById(R.id.id_tool_bar)
+        setSupportActionBar(toolbar)
+        nav_bar()
     }
 }

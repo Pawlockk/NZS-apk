@@ -24,14 +24,19 @@
         <dimen name="login_button_padding_top_bot">8dp</dimen>
         <dimen name="login_button_text_size">18sp</dimen>
 
-    <!-- main -->
-    <dimen name="toolbar_height">75dp</dimen>
-    <dimen name="toolbar_text_size">20dp</dimen>
-    <dimen name="main_nav_height">75dp</dimen>
-    <dimen name="main_nav_margin_bot">0dp</dimen>
-    <dimen name="main_nav_corner">0dp</dimen>
-    <dimen name="main_nav_image_width_height">30dp</dimen>
-    <dimen name="main_nav_image_margin_top_bot">25dp</dimen>
-    <dimen name="main_nav_image_margin_left_right">35dp</dimen>
+    <!-- tool_bar -->
+    <dimen name="tool_bar_height">75dp</dimen>
+    <dimen name="tool_bar_text_size">20dp</dimen>
+    <dimen name="tool_bar_elevation">20dp</dimen>
+
+    <!-- nav_bar -->
+    <dimen name="nav_bar_height">75dp</dimen>
+    <dimen name="nav_bar_image_width_height">30dp</dimen>
+    <dimen name="nav_bar_image_margin_top_bot">25dp</dimen>
+    <dimen name="nav_bar_image_margin_left_right">35dp</dimen>
+    <dimen name="nav_bar_elevation">20dp</dimen>
+
+    <!-- settings -->
+    <dimen name="settings_card_view_height">75dp</dimen>
 
 </resources>

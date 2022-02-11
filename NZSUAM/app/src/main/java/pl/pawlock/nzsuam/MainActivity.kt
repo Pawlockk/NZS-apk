@@ -17,16 +17,8 @@ class MainActivity : NzsUamBase() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
-
-        nav_bar("main",R.id.id_main_nav_home,R.id.id_main_nav_tree,R.id.id_main_nav_notifications,R.id.id_main_nav_settings)
-
-        val toolbar : Toolbar = findViewById(R.id.id_toolbar)
+        val toolbar : Toolbar = findViewById(R.id.id_tool_bar)
         setSupportActionBar(toolbar)
-
-        findViewById<Button>(R.id.id_main_button).setOnClickListener{
-            FirebaseAuth.getInstance().signOut()
-            startActivity(Intent(this, LoginActivity::class.java))
-            Toast.makeText(this, "Wylogowany", Toast.LENGTH_SHORT).show()
-        }
+        nav_bar()
     }
 }
