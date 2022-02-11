@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="splash_text_size">60sp</dimen>
+
+    <!-- login -->
+        <!-- login_image -->
+        <dimen name="login_image_width">250sp</dimen>
+        <dimen name="login_image_height">125sp</dimen>
+        <dimen name="login_image_margin_bot">40dp</dimen>
+
+        <!-- login_card_view -->
+        <dimen name="login_card_view_width">300dp</dimen>
+        <dimen name="login_card_view_height">200dp</dimen>
+        <dimen name="login_card_view_corner_radius">10dp</dimen>
+
+        <!-- login_mail | login_password -->
+        <dimen name="login_text_input_margin_start_end">20dp</dimen>
+        <dimen name="login_email_margin_top">10dp</dimen>
+        <dimen name="login_password_margin_top">70dp</dimen>
+
+        <!-- login_button -->
+        <dimen name="login_button_margin_start_end">20dp</dimen>
+        <dimen name="login_button_margin_top">60dp</dimen>
+        <dimen name="login_button_padding_top_bot">8dp</dimen>
+        <dimen name="login_button_text_size">18sp</dimen>
+
+    <!-- main -->
+    <dimen name="main_nav_height">75dp</dimen>
+    <dimen name="main_nav_margin_bot">0dp</dimen>
+    <dimen name="main_nav_corner">0dp</dimen>
+    <dimen name="main_nav_image_width_height">30dp</dimen>
+    <dimen name="main_nav_image_margin_top_bot">25dp</dimen>
+    <dimen name="main_nav_image_margin_left_right">35dp</dimen>
+
+</resources>

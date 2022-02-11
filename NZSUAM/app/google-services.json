@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "269233804684",
+    "project_id": "nzs-uam",
+    "storage_bucket": "nzs-uam.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269233804684:android:a12a5bf38de04e5b8f32a9",
+        "android_client_info": {
+          "package_name": "pl.pawlock.nzsuam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "269233804684-27t9vdibik1ufuktjsdbad6d924djcj7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVQJPMucEHIrZALQSxUoQaJA5pM5GuwaA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "269233804684-27t9vdibik1ufuktjsdbad6d924djcj7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

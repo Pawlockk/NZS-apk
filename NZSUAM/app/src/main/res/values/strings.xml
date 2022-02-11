@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">NZS UAM</string>
+    <string name="image_text">image</string>
+    <string name="login_email_text">Email</string>
+    <string name="login_password_text">Hasło</string>
+    <string name="login_button_text">ZALOGUJ SIĘ</string>
+</resources>
