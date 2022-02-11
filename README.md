@@ -1,7 +1,7 @@
 # NZS-apk
 Aplikacja mobilna dla NZS UAM
 
-# v1.0
+# v0.01a
 
 |Activities:|
 -SplashActivity
