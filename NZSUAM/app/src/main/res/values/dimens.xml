@@ -37,6 +37,6 @@
     <dimen name="nav_bar_elevation">20dp</dimen>
 
     <!-- settings -->
-    <dimen name="settings_card_view_height">75dp</dimen>
+    <dimen name="settings_card_view_height">70dp</dimen>
 
 </resources>
