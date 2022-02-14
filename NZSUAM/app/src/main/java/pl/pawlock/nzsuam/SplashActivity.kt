@@ -10,8 +10,6 @@ import com.google.firebase.auth.ktx.auth
 import com.google.firebase.ktx.Firebase
 
 class SplashActivity : NzsUamBase() {
-    private lateinit var signin_auth: FirebaseAuth
-
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -21,19 +19,7 @@ class SplashActivity : NzsUamBase() {
             WindowManager.LayoutParams.FLAG_FULLSCREEN
         )
 
-        signin_auth = Firebase.auth
-        val current_user = signin_auth.currentUser
-        if (current_user != null){
-            Handler().postDelayed({
-                startActivity(Intent(this, MainActivity::class.java))
-                finish()
-            }, 2000)
-        }else{
-            Handler().postDelayed({
-                startActivity(Intent(this, LoginActivity::class.java))
-                finish()
-            }, 2000)
-        }
+        Firebase_auth()
 
     }
 }

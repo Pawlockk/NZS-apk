@@ -38,5 +38,6 @@
 
     <!-- settings -->
     <dimen name="settings_card_view_height">70dp</dimen>
+    <dimen name="settings_card_view_height2">100dp</dimen>
 
 </resources>
