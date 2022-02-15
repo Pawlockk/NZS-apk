@@ -8,7 +8,6 @@ class TreeActivity : NzsUamBase() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_tree)
-        val toolbar : Toolbar = findViewById(R.id.id_tool_bar)
         setSupportActionBar(toolbar)
         nav_bar()
     }

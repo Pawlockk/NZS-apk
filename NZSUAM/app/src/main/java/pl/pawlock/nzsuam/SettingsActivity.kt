@@ -15,7 +15,6 @@ class SettingsActivity : NzsUamBase() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_settings)
-        val toolbar : Toolbar = findViewById(R.id.id_tool_bar)
         setSupportActionBar(toolbar)
         nav_bar()
         findViewById<Button>(R.id.id_settings_logout_button).setOnClickListener{

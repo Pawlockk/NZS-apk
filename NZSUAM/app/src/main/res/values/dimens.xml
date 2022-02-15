@@ -31,7 +31,7 @@
 
     <!-- nav_bar -->
     <dimen name="nav_bar_height">75dp</dimen>
-    <dimen name="nav_bar_image_width_height">30dp</dimen>
+    <dimen name="nav_bar_image_width_height">33dp</dimen>
     <dimen name="nav_bar_image_margin_top_bot">25dp</dimen>
     <dimen name="nav_bar_image_margin_left_right">35dp</dimen>
     <dimen name="nav_bar_elevation">20dp</dimen>

@@ -17,7 +17,6 @@ class MainActivity : NzsUamBase() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
-        val toolbar : Toolbar = findViewById(R.id.id_tool_bar)
         setSupportActionBar(toolbar)
         nav_bar()
     }

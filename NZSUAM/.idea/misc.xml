@@ -19,6 +19,11 @@
         <entry key="..\:/Dev_Projects/NZSUAM/app/src/main/res/layout/activity_splash.xml" value="0.2957427536231884" />
         <entry key="..\:/Dev_Projects/NZSUAM/app/src/main/res/layout/activity_tree.xml" value="0.2957427536231884" />
         <entry key="..\:/Dev_Projects/NZSUAM/app/src/main/res/layout/content_scrolling.xml" value="0.2957427536231884" />
+        <entry key="..\:/Dokumenty/GitHub/NZS-apk/NZSUAM/app/src/main/res/drawable/ic_outline_account_tree_24.xml" value="0.3828125" />
+        <entry key="..\:/Dokumenty/GitHub/NZS-apk/NZSUAM/app/src/main/res/drawable/ic_outline_add_circle_outline_24.xml" value="0.3828125" />
+        <entry key="..\:/Dokumenty/GitHub/NZS-apk/NZSUAM/app/src/main/res/drawable/ic_outline_home_24.xml" value="0.3828125" />
+        <entry key="..\:/Dokumenty/GitHub/NZS-apk/NZSUAM/app/src/main/res/drawable/ic_outline_notifications_24.xml" value="0.3828125" />
+        <entry key="..\:/Dokumenty/GitHub/NZS-apk/NZSUAM/app/src/main/res/drawable/ic_outline_settings_24.xml" value="0.3828125" />
         <entry key="..\:/Dokumenty/GitHub/NZS-apk/NZSUAM/app/src/main/res/drawable/login_button_gradient.xml" value="0.3828125" />
         <entry key="..\:/Dokumenty/GitHub/NZS-apk/NZSUAM/app/src/main/res/drawable/login_button_state.xml" value="0.3828125" />
         <entry key="..\:/Dokumenty/GitHub/NZS-apk/NZSUAM/app/src/main/res/drawable/login_button_text_state.xml" value="0.3828125" />
@@ -30,6 +35,7 @@
         <entry key="..\:/Dokumenty/GitHub/NZS-apk/NZSUAM/app/src/main/res/drawable/settings_button_blue.xml" value="0.3828125" />
         <entry key="..\:/Dokumenty/GitHub/NZS-apk/NZSUAM/app/src/main/res/drawable/settings_button_state.xml" value="0.3828125" />
         <entry key="..\:/Dokumenty/GitHub/NZS-apk/NZSUAM/app/src/main/res/drawable/settings_button_white.xml" value="0.3828125" />
+        <entry key="..\:/Dokumenty/GitHub/NZS-apk/NZSUAM/app/src/main/res/drawable/test.xml" value="0.3828125" />
         <entry key="..\:/Dokumenty/GitHub/NZS-apk/NZSUAM/app/src/main/res/layout/activity_login.xml" value="0.28940217391304346" />
         <entry key="..\:/Dokumenty/GitHub/NZS-apk/NZSUAM/app/src/main/res/layout/activity_main.xml" value="0.28940217391304346" />
         <entry key="..\:/Dokumenty/GitHub/NZS-apk/NZSUAM/app/src/main/res/layout/activity_notifications.xml" value="0.28940217391304346" />
